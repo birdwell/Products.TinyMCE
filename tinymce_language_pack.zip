@@ -1,0 +1,820 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>TinyMCE - Languages for TinyMCE 4</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="icon" href="http://moxiecode.cachefly.net/tinymce/v8/images/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="http://moxiecode.cachefly.net/tinymce/v8/images/favicon.ico" type="image/x-icon" />
+<link type="text/css" rel="stylesheet" href="http://moxiecode.cachefly.net/tinymce/v8/css/all.min.css?v=8" />
+</head>
+<body id="download">
+
+<div id="header">
+	<div id="top">
+		<div class="block">
+			<ul id="menu">
+				<li><a href="/index.php"><span>Home</span></a></li>
+				<li><a href="/tryit/basic.php"><span>Try it</span></a></li>
+				<li class="active"><a href="/download/download.php"><span>Download</span></a></li>
+				<li><a href="/wiki.php"><span>Documentation</span></a></li>
+				<li><a href="/enterprise/enterprise.php"><span>Enterprise</span></a></li>
+				<li><a href="/develop/develop.php"><span>Develop</span></a></li>
+				<li><a href="/forum/index.php"><span>Forum</span></a></li>
+							</ul>
+
+			<!-- login -->
+							<div id="login">Welcome Guest! <a class="showlogin" href="#">Login</a> or <a href="/forum/register.php">Register</a></div>
+					</div>
+	</div>
+
+	<div id="subheader">
+		<div class="block">
+			<a class="logo" href="/index.php" title="TinyMCE"><span>Version: 4.1.9</span></a>
+
+											<img alt="Headerimage" src="http://moxiecode.cachefly.net/tinymce/v8/images/subimage/puzzle.gif" style="left:200px; position:absolute; display: block" />
+								<div class="text">
+					<h3>Get your own copy</h3>
+					<p>Don't hesitate! Just <a href="/download/download.php">download</a> and <a href="/tryit/full.php">test</a> it all by yourself <a href="/js/tinymce/jscripts/tiny_mce/license.txt">for free</a>!</p>
+				</div>
+					</div>
+	</div>
+</div>
+
+<div id="main">
+	<div class="mainblock">
+		<div class="block">
+
+		<div id="breadcrumbsheader">
+						<ul class="toolbar breadcrumbs">
+				<li class="first">You are here:</li>
+								<li class="start"><a href="/download/download.php">Download</a></li>
+								<li ><a href="/i18n/index.php">Languages</a></li>
+								<li ><a href="/i18n/index.php">TinyMCE 4</a></li>
+							</ul>
+					</div>
+
+		<div id="twocolumns">
+			<div class="content">
+				<div id="content-header">
+					<h1>Languages for TinyMCE 4</h1>
+
+
+
+					<ul class="toolbar pagetools">
+												<li><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4d0772ad4d893743" title="Bookmark/share page" class="share" rel="nofollow">Share</a></li>
+						<li><a href="#" class="print" title="Print wiki page">Print</a></li>
+					</ul>
+				</div>
+
+				<div class="content-body">
+<p>Wish to help out and translate TinyMCE 4? Visit <a href="https://www.transifex.com/projects/p/tinymce/">Transifex</a> and join in on the fun!</p>
+
+<form method="post" action="download.php">
+<table class="small">
+	<thead>
+		<tr>
+			<th>#</th>
+			<th>Language</th>
+			<th>Code</th>
+			<th>Updated</th>
+			<th>Translate</th>
+			<th>Download</th>
+		</tr>
+	</thead>
+
+	<tbody>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ar"></td>
+			<td style="width: 90%">Arabic</td>
+			<td>ar</td>
+			<td class="nowrap">2015-02-21 22:08</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ar/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ar">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ar_SA"></td>
+			<td style="width: 90%">Arabic (Saudi Arabia)</td>
+			<td>ar_SA</td>
+			<td class="nowrap">2014-11-06 02:07</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ar_SA/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ar_SA">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="hy"></td>
+			<td style="width: 90%">Armenian</td>
+			<td>hy</td>
+			<td class="nowrap">2014-08-29 15:24</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/hy/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=hy">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="az"></td>
+			<td style="width: 90%">Azerbaijani</td>
+			<td>az</td>
+			<td class="nowrap">2015-01-08 21:30</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/az/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=az">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="eu"></td>
+			<td style="width: 90%">Basque</td>
+			<td>eu</td>
+			<td class="nowrap">2014-12-02 17:25</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/eu/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=eu">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="be"></td>
+			<td style="width: 90%">Belarusian</td>
+			<td>be</td>
+			<td class="nowrap">2014-06-18 15:34</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/be/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=be">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="bn_BD"></td>
+			<td style="width: 90%">Bengali (Bangladesh)</td>
+			<td>bn_BD</td>
+			<td class="nowrap">2014-02-19 12:05</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/bn_BD/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=bn_BD">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="bs"></td>
+			<td style="width: 90%">Bosnian</td>
+			<td>bs</td>
+			<td class="nowrap">2014-11-06 20:49</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/bs/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=bs">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="bg_BG"></td>
+			<td style="width: 90%">Bulgarian (Bulgaria)</td>
+			<td>bg_BG</td>
+			<td class="nowrap">2014-10-13 21:50</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/bg_BG/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=bg_BG">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ca"></td>
+			<td style="width: 90%">Catalan</td>
+			<td>ca</td>
+			<td class="nowrap">2014-10-10 13:31</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ca/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ca">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="zh_CN"></td>
+			<td style="width: 90%">Chinese (China)</td>
+			<td>zh_CN</td>
+			<td class="nowrap">2014-07-16 14:52</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/zh_CN/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=zh_CN">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="zh_TW"></td>
+			<td style="width: 90%">Chinese (Taiwan)</td>
+			<td>zh_TW</td>
+			<td class="nowrap">2014-06-15 05:33</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/zh_TW/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=zh_TW">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="hr"></td>
+			<td style="width: 90%">Croatian</td>
+			<td>hr</td>
+			<td class="nowrap">2014-02-19 12:05</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/hr/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=hr">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="cs"></td>
+			<td style="width: 90%">Czech</td>
+			<td>cs</td>
+			<td class="nowrap">2014-10-10 13:32</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/cs/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=cs">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="da"></td>
+			<td style="width: 90%">Danish</td>
+			<td>da</td>
+			<td class="nowrap">2014-06-20 10:39</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/da/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=da">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="dv"></td>
+			<td style="width: 90%">Divehi</td>
+			<td>dv</td>
+			<td class="nowrap">2014-06-02 15:51</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/dv/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=dv">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="nl"></td>
+			<td style="width: 90%">Dutch</td>
+			<td>nl</td>
+			<td class="nowrap">2015-02-09 23:41</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/nl/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=nl">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="en_CA"></td>
+			<td style="width: 90%">English (Canada)</td>
+			<td>en_CA</td>
+			<td class="nowrap">2014-04-26 01:19</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/en_CA/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=en_CA">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="en_GB"></td>
+			<td style="width: 90%">English (United Kingdom)</td>
+			<td>en_GB</td>
+			<td class="nowrap">2014-02-19 12:05</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/en_GB/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=en_GB">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="et"></td>
+			<td style="width: 90%">Estonian</td>
+			<td>et</td>
+			<td class="nowrap">2015-02-07 16:19</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/et/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=et">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="fo"></td>
+			<td style="width: 90%">Faroese</td>
+			<td>fo</td>
+			<td class="nowrap">2015-01-16 12:05</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/fo/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=fo">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="fi"></td>
+			<td style="width: 90%">Finnish</td>
+			<td>fi</td>
+			<td class="nowrap">2015-02-05 23:47</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/fi/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=fi">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="fr_FR"></td>
+			<td style="width: 90%">French (France)</td>
+			<td>fr_FR</td>
+			<td class="nowrap">2015-03-03 02:10</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/fr_FR/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=fr_FR">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="gd"></td>
+			<td style="width: 90%">Gaelic, Scottish</td>
+			<td>gd</td>
+			<td class="nowrap">2014-09-12 01:14</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/gd/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=gd">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="gl"></td>
+			<td style="width: 90%">Galician</td>
+			<td>gl</td>
+			<td class="nowrap">2014-04-24 15:28</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/gl/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=gl">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ka_GE"></td>
+			<td style="width: 90%">Georgian (Georgia)</td>
+			<td>ka_GE</td>
+			<td class="nowrap">2015-03-03 12:10</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ka_GE/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ka_GE">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="de"></td>
+			<td style="width: 90%">German</td>
+			<td>de</td>
+			<td class="nowrap">2014-06-18 17:09</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/de/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=de">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="de_AT"></td>
+			<td style="width: 90%">German (Austria)</td>
+			<td>de_AT</td>
+			<td class="nowrap">2014-06-25 08:48</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/de_AT/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=de_AT">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="el"></td>
+			<td style="width: 90%">Greek</td>
+			<td>el</td>
+			<td class="nowrap">2014-10-10 13:34</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/el/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=el">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="he_IL"></td>
+			<td style="width: 90%">Hebrew (Israel)</td>
+			<td>he_IL</td>
+			<td class="nowrap">2014-10-15 14:02</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/he_IL/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=he_IL">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="hi_IN"></td>
+			<td style="width: 90%">Hindi (India)</td>
+			<td>hi_IN</td>
+			<td class="nowrap">2015-02-20 11:14</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/hi_IN/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=hi_IN">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="hu_HU"></td>
+			<td style="width: 90%">Hungarian (Hungary)</td>
+			<td>hu_HU</td>
+			<td class="nowrap">2014-07-16 14:30</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/hu_HU/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=hu_HU">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="is_IS"></td>
+			<td style="width: 90%">Icelandic (Iceland)</td>
+			<td>is_IS</td>
+			<td class="nowrap">2015-01-20 14:54</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/is_IS/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=is_IS">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="id"></td>
+			<td style="width: 90%">Indonesian</td>
+			<td>id</td>
+			<td class="nowrap">2014-04-27 15:02</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/id/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=id">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="it"></td>
+			<td style="width: 90%">Italian</td>
+			<td>it</td>
+			<td class="nowrap">2014-08-18 17:47</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/it/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=it">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ja"></td>
+			<td style="width: 90%">Japanese</td>
+			<td>ja</td>
+			<td class="nowrap">2014-10-10 13:34</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ja/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ja">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="kk"></td>
+			<td style="width: 90%">Kazakh</td>
+			<td>kk</td>
+			<td class="nowrap">2014-02-19 12:05</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/kk/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=kk">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="km_KH"></td>
+			<td style="width: 90%">Khmer (Cambodia)</td>
+			<td>km_KH</td>
+			<td class="nowrap">2014-06-19 04:58</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/km_KH/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=km_KH">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ko_KR"></td>
+			<td style="width: 90%">Korean (Korea)</td>
+			<td>ko_KR</td>
+			<td class="nowrap">2015-01-17 07:09</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ko_KR/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ko_KR">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ku"></td>
+			<td style="width: 90%">Kurdish</td>
+			<td>ku</td>
+			<td class="nowrap">2014-10-10 13:28</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ku/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ku">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ku_IQ"></td>
+			<td style="width: 90%">Kurdish (Iraq)</td>
+			<td>ku_IQ</td>
+			<td class="nowrap">2014-10-11 14:17</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ku_IQ/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ku_IQ">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="lv"></td>
+			<td style="width: 90%">Latvian</td>
+			<td>lv</td>
+			<td class="nowrap">2014-07-08 09:08</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/lv/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=lv">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="lt"></td>
+			<td style="width: 90%">Lithuanian</td>
+			<td>lt</td>
+			<td class="nowrap">2015-02-15 00:31</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/lt/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=lt">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="lb"></td>
+			<td style="width: 90%">Luxembourgish</td>
+			<td>lb</td>
+			<td class="nowrap">2014-06-02 11:27</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/lb/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=lb">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ml"></td>
+			<td style="width: 90%">Malayalam</td>
+			<td>ml</td>
+			<td class="nowrap">2014-02-19 12:05</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ml/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ml">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ml_IN"></td>
+			<td style="width: 90%">Malayalam (India)</td>
+			<td>ml_IN</td>
+			<td class="nowrap">2014-02-19 12:05</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ml_IN/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ml_IN">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="mn_MN"></td>
+			<td style="width: 90%">Mongolian (Mongolia)</td>
+			<td>mn_MN</td>
+			<td class="nowrap">2014-02-19 12:05</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/mn_MN/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=mn_MN">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="nb_NO"></td>
+			<td style="width: 90%">Norwegian Bokmål (Norway)</td>
+			<td>nb_NO</td>
+			<td class="nowrap">2014-06-25 08:12</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/nb_NO/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=nb_NO">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="fa"></td>
+			<td style="width: 90%">Persian</td>
+			<td>fa</td>
+			<td class="nowrap">2014-02-19 12:05</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/fa/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=fa">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="fa_IR"></td>
+			<td style="width: 90%">Persian (Iran)</td>
+			<td>fa_IR</td>
+			<td class="nowrap">2014-12-28 23:23</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/fa_IR/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=fa_IR">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="pl"></td>
+			<td style="width: 90%">Polish</td>
+			<td>pl</td>
+			<td class="nowrap">2014-09-11 08:35</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/pl/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=pl">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="pt_BR"></td>
+			<td style="width: 90%">Portuguese (Brazil)</td>
+			<td>pt_BR</td>
+			<td class="nowrap">2014-09-18 19:22</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/pt_BR/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=pt_BR">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="pt_PT"></td>
+			<td style="width: 90%">Portuguese (Portugal)</td>
+			<td>pt_PT</td>
+			<td class="nowrap">2014-08-11 16:46</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/pt_PT/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=pt_PT">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ro"></td>
+			<td style="width: 90%">Romanian</td>
+			<td>ro</td>
+			<td class="nowrap">2014-09-01 09:38</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ro/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ro">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ru"></td>
+			<td style="width: 90%">Russian</td>
+			<td>ru</td>
+			<td class="nowrap">2014-08-18 11:52</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ru/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ru">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ru@petr1708"></td>
+			<td style="width: 90%">Russian Petrine orthography</td>
+			<td>ru@petr1708</td>
+			<td class="nowrap">2014-12-05 21:35</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ru@petr1708/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ru@petr1708">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="sr"></td>
+			<td style="width: 90%">Serbian</td>
+			<td>sr</td>
+			<td class="nowrap">2014-02-19 12:05</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/sr/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=sr">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="si_LK"></td>
+			<td style="width: 90%">Sinhala (Sri Lanka)</td>
+			<td>si_LK</td>
+			<td class="nowrap">2014-02-19 12:05</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/si_LK/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=si_LK">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="sk"></td>
+			<td style="width: 90%">Slovak</td>
+			<td>sk</td>
+			<td class="nowrap">2014-07-07 11:40</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/sk/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=sk">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="sl_SI"></td>
+			<td style="width: 90%">Slovenian (Slovenia)</td>
+			<td>sl_SI</td>
+			<td class="nowrap">2014-10-19 12:46</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/sl_SI/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=sl_SI">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="es"></td>
+			<td style="width: 90%">Spanish</td>
+			<td>es</td>
+			<td class="nowrap">2015-03-10 01:08</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/es/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=es">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="es_MX"></td>
+			<td style="width: 90%">Spanish (Mexico)</td>
+			<td>es_MX</td>
+			<td class="nowrap">2014-11-08 21:21</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/es_MX/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=es_MX">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="sv_SE"></td>
+			<td style="width: 90%">Swedish (Sweden)</td>
+			<td>sv_SE</td>
+			<td class="nowrap">2014-08-18 14:02</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/sv_SE/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=sv_SE">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="tg"></td>
+			<td style="width: 90%">Tajik</td>
+			<td>tg</td>
+			<td class="nowrap">2014-12-23 09:31</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/tg/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=tg">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ta"></td>
+			<td style="width: 90%">Tamil</td>
+			<td>ta</td>
+			<td class="nowrap">2014-06-19 06:50</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ta/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ta">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ta_IN"></td>
+			<td style="width: 90%">Tamil (India)</td>
+			<td>ta_IN</td>
+			<td class="nowrap">2014-06-19 06:53</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ta_IN/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ta_IN">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="tt"></td>
+			<td style="width: 90%">Tatar</td>
+			<td>tt</td>
+			<td class="nowrap">2014-06-18 16:04</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/tt/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=tt">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="th_TH"></td>
+			<td style="width: 90%">Thai (Thailand)</td>
+			<td>th_TH</td>
+			<td class="nowrap">2014-10-14 19:03</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/th_TH/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=th_TH">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="tr_TR"></td>
+			<td style="width: 90%">Turkish (Turkey)</td>
+			<td>tr_TR</td>
+			<td class="nowrap">2014-10-22 23:38</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/tr_TR/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=tr_TR">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="ug"></td>
+			<td style="width: 90%">Uighur</td>
+			<td>ug</td>
+			<td class="nowrap">2014-06-24 13:15</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/ug/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=ug">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="uk"></td>
+			<td style="width: 90%">Ukrainian</td>
+			<td>uk</td>
+			<td class="nowrap">2014-07-22 22:47</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/uk/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=uk">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="uk_UA"></td>
+			<td style="width: 90%">Ukrainian (Ukraine)</td>
+			<td>uk_UA</td>
+			<td class="nowrap">2015-01-20 00:15</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/uk_UA/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=uk_UA">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="vi"></td>
+			<td style="width: 90%">Vietnamese</td>
+			<td>vi</td>
+			<td class="nowrap">2014-10-13 15:19</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/vi/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=vi">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="vi_VN"></td>
+			<td style="width: 90%">Vietnamese (Viet Nam)</td>
+			<td>vi_VN</td>
+			<td class="nowrap">2014-06-29 23:35</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/vi_VN/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=vi_VN">Download</a></td>
+		</tr>
+				<tr>
+			<td class="text-center"><input type="checkbox" name="download[]" value="cy"></td>
+			<td style="width: 90%">Welsh</td>
+			<td>cy</td>
+			<td class="nowrap">2014-03-11 13:29</td>
+			<td class="nowrap text-center"><a href="https://www.transifex.com/projects/p/tinymce/language/cy/">Translate</a></td>
+			<td class="nowrap text-center"><a href="download.php?download=cy">Download</a></td>
+		</tr>
+			</tbody>
+</table>
+
+<p>
+	Download the zip files, and unzip the contents to your tinymce/langs folder.
+</p>
+
+<button class="submitbtn btn">
+	<span>Download</span>
+</button>
+</form>
+
+				</div>
+			</div>
+
+			<div id="submenu">
+				<ul class="side-nav"><li><a href="/download/plugins.php">Plugins</a></li><li><a href="/download/custom_package.php">Custom package</a></li><li><a href="/download/compressors.php">Compressors</a></li><li class="active"><a href="/i18n/index.php">Languages</a><ul><li class="active"><a href="/i18n/index.php">TinyMCE 4</a></li><li><a href="/i18n3x/index.php?ctrl=lang&amp;act=download&amp;pr_id=1">Languages 3.x</a></li></ul></li><li><a href="/download/older.php">Older releases</a></li></ul>				<div class="widget widget-product">
+	<div class="frame">
+		<div class="widget-body">
+			<img src="http://moxiecode.cachefly.net/tinymce/v8/images/moxiemanager2.png" width="140" alt="MoxieManager" class="alignright" />
+			<div>
+				<h3>Moxie<br />Manager</h3>
+				<a href="http://www.moxiemanager.com" class="btn"><span>learn more</span></a>
+				<a href="http://www.moxiemanager.com/getit/" class="btn btn-green"><span>buy now!</span></a>
+			</div>
+		</div>
+		<div class="holder">
+			<h4>Need to handle files in TinyMCE?</h4>
+			<p>Then check out MoxieManager. Integrate it into TinyMCE or use it with any editor out there.</p>
+		</div>
+	</div>
+</div><div class="widget">
+
+	<div class="heading">
+		<h3 class="help-heading2">Info on updates!</h3>
+	</div>
+	<form method="post" action="/subscribe.php" name="sub">
+	<p>Subscribe here to get information on TinyMCE updates!</p>
+	<p><input type="text" name="subscribe" value="" /></p>
+	<div class="btns">
+		<a class="btn" href="javascript:document.forms['sub'].submit();"><span>Subscribe</span></a>
+	</div>
+	</form>
+</div>
+<div class="widget">
+	<div class="heading">
+		<h3 class="help-heading2">Got a plugin?</h3>
+	</div>
+
+	<p>Submit your plugin to our website for everyone to enjoy!</p>
+	<div class="btns">
+		<a class="btn" href="/download/plugins.php"><span>plugins</span></a>
+	</div>
+</div>
+<div class="widget">
+	<div class="heading">
+		<h3 class="help-heading2">Need support?</h3>
+	</div>
+
+	<p>If you need support, premium support is provided by our partners.</p>
+	<div class="btns">
+		<a class="btn" href="/enterprise/support.php"><span>premium support</span></a>
+	</div>
+</div>
+			</div>
+		</div>
+		<div class="bottom-line"></div>
+	</div>
+
+	</div> <!-- /mainblock -->
+</div> <!-- /main -->
+
+<div id="footer">
+	<div class="block">
+		<a href="#" class="totop">Back to site top</a>
+		<p>Provided for developers anywhere, everywhere, anytime and with any content.</p>
+
+		<ul class="left">
+			<li><a href="/tryit/full.php">Try it</a></li>
+			<li><a href="/download/download.php">Download</a></li>
+			<li><a href="/wiki.php">Documentation</a></li>
+		</ul>
+
+		<ul class="right">
+			<li><a href="/enterprise/enterprise.php">Enterprise</a></li>
+			<li><a href="/develop/develop.php">Develop</a></li>
+			<li><a href="/forum/index.php">Forum</a></li>
+		</ul>
+
+		<div class="search">
+			<form action="/search.php" method="get">
+				<fieldset>
+					<label for="search">Looking for something?</label>
+					<div class="row">
+						<div class="text">
+							<input type="text" id="search" name="searchquery" value="" />
+						</div>
+
+						<input type="submit" value="GO" class="submit" />
+					</div>
+					<a href="http://www.moxiecode.com" class="footer-logo">Moxiecode</a>
+					<p class="copy">&copy; 2003-2015 Moxiecode Systems AB.<br />All rights Reserved.<br />By being on this site, you allow cookies to be used.</p>
+					<p><a href="http://www.cachefly.com/" title="Powered by Cachefly"><img src="http://moxiecode.cachefly.net/tinymce/v8/images/logos/cachefly.png" alt="Powered by Cachefly" width="100"></a></p>
+				</fieldset>
+			</form>
+		</div>
+	</div>
+</div>
+
+<div id="footerdialog"></div>
+
+
+	<script type="text/javascript" src="http://moxiecode.cachefly.net/tinymce/v8/js/prettify.js"></script>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript" src="http://moxiecode.cachefly.net/tinymce/v8/js/all.min.js"></script>
+
+<script type="text/javascript">
+// Google Analytics with Async load, DONT CLOG MA BROWSER MODE!
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-692197-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script');
+ga.src = ('https:' == document.location.protocol ?
+    'https://ssl' : 'http://www') +
+    '.google-analytics.com/ga.js';
+ga.setAttribute('async', 'true');
+document.documentElement.firstChild.appendChild(ga);
+})();
+</script>
+
+</body>
+</html>
